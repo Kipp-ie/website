@@ -1,2 +1,5 @@
-# website
-Learning to create a website
+
+# Personal Website
+
+Code used for my personal website, pretty simple, right?
+
